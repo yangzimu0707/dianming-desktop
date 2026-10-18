@@ -53,14 +53,16 @@ If your Windows 11 was **cleanly installed** (not upgraded from an older version
 - **There is no per-app exception** — the feature simply does not work that way, and there is no allow list
 - The only way around it is to turn Smart App Control off entirely — and once off, it **can only be re-enabled by resetting or reinstalling Windows**
 
-**If you hit this block, please do not turn it off — use the Microsoft Store version above instead.** Store apps are signed and distributed by Microsoft and are treated as trusted, so they are not affected.
+**How to turn it off:** open **Windows Security → App & browser control → Smart App Control** and set it to **Off**.
+
+**Once it is off, it can only be turned back on by resetting or reinstalling Windows** — so decide before you do it. If you would rather not, just use the Microsoft Store version above instead: Store apps are signed and distributed by Microsoft and are treated as trusted, so they are not affected.
 
 ### Which one are you seeing?
 
 | What you see | Which block | What to do |
 |---|---|---|
 | Blue "Windows protected your PC" with a clickable "More info" | SmartScreen | Click "More info" → "Run anyway" |
-| "Smart App Control blocked this app" with **no button to proceed** | Smart App Control | Use the Microsoft Store version |
+| "Smart App Control blocked this app" with **no button to proceed** | Smart App Control | Turn it off in Windows Security (see above), or use the Microsoft Store version |
 
 ---
 
@@ -160,14 +162,16 @@ https://github.com/yangzimu0707/dianming-desktop/issues
 - **不支持针对单个应用放行** —— 系统层面就没有这个功能，也没有例外名单
 - 唯一的办法是把「智能应用控制」整个关掉，但它**一旦关闭，必须重置或重装 Windows 才能再打开**
 
-**所以遇到这道拦截，请不要去关它，直接改用上面的微软商店版本。** 商店里的应用由微软签名和分发、被系统视为可信，不受这道限制影响。
+**关闭方法**：打开 **Windows 安全中心 → 应用和浏览器控制 → 智能应用控制**，把它设为**关闭**。
+
+**注意：一旦关闭，只有重置或重装 Windows 才能重新打开** —— 决定前请想清楚。不想关闭的话，直接用上面的微软商店版本即可：商店里的应用由微软签名和分发、被系统视为可信，不受这道限制影响。
 
 ### 怎么判断自己遇到的是哪一道
 
 | 你看到的 | 是哪一道 | 怎么办 |
 |---|---|---|
 | 蓝底「Windows 已保护你的电脑」，有「更多信息」可点 | SmartScreen | 点「更多信息」→「仍要运行」 |
-| 「智能应用控制已阻止此应用」，**没有任何可以点过去的按钮** | 智能应用控制 | 改用微软商店版本 |
+| 「智能应用控制已阻止此应用」，**没有任何可以点过去的按钮** | 智能应用控制 | 在安全中心关闭它（见上文），或改用微软商店版本 |
 
 ---
 
