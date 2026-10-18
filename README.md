@@ -21,7 +21,7 @@ Signed and distributed by Microsoft — no security warnings during installation
 
 👉 **[Download the latest version](https://github.com/yangzimu0707/dianming-desktop/releases/latest)**
 
-The installer file is named `点名分组工具 Setup x.y.z.exe` (that is the internal product name; it is the same app as 班级点名大师).
+The installer file is named `ClassRollCall-Setup-x.y.z.exe`.
 
 ---
 
@@ -130,7 +130,7 @@ https://github.com/yangzimu0707/dianming-desktop/issues
 
 👉 **[下载最新版](https://github.com/yangzimu0707/dianming-desktop/releases/latest)**
 
-安装包文件名是 `点名分组工具 Setup x.y.z.exe`（这是软件内部的产品名，和「班级点名大师」是同一个应用）。
+安装包文件名是 `ClassRollCall-Setup-x.y.z.exe`。
 
 ---
 
