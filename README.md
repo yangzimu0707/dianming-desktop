@@ -13,7 +13,7 @@ Roll call · random grouping · AI chat · reaction & short-term-memory training
 
 ### ✅ Recommended: Microsoft Store
 
-Search **班级点名大师** on the Microsoft Store.
+👉 **[班级点名大师 on the Microsoft Store](https://apps.microsoft.com/detail/9nkzc85b8774)**
 
 Signed and distributed by Microsoft — no security warnings during installation, and updates are handled automatically.
 
@@ -122,7 +122,7 @@ https://github.com/yangzimu0707/dianming-desktop/issues
 
 ### ✅ 推荐：微软商店
 
-在微软商店搜索 **班级点名大师**。
+👉 **[班级点名大师 · 微软商店页面](https://apps.microsoft.com/detail/9nkzc85b8774)**
 
 由微软签名和分发，安装时不弹任何安全提示，后续更新也由商店自动完成。
 
